@@ -1,0 +1,18 @@
+/*
+
+Theme Name: anpol
+Theme URI: http://anpol.pl
+Description: Motyw dla strony anpol.pl
+Author: aklekotka
+Author URI: http://itkom.pl
+Version: 0.5
+
+*/
+
+.wpinfo {
+	display: block;
+	min-height: 200px;
+	background: red;
+	color: white;
+	font-size: 1.5rem;
+}
